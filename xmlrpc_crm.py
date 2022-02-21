@@ -110,7 +110,7 @@ class SearchLead():
         print(""" Get date from %s """ % (mobile) )
 	
         username='admin'
-        pwd='ramathree'
+        pwd='ramaree'
         dbname='h3crm_2019_test'
 
         url="http://192.168.82.220:8069/xmlrpc/common"
